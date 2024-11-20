@@ -1,7 +1,8 @@
-# Project Title
+# VUSVista
 
 This repository hosts the code for VUSVista designed for deployment on Vercel (frontend) and DigitalOcean (backend). The system is configured to operate securely and ensure compliance with data privacy requirements.
 
+#### For the docker-compose version of this project please change to the *docker_compose* branch.
 ---
 
 ## Live Demo
